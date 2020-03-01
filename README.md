@@ -1,6 +1,2 @@
-# gitflow for
-tree hundred buks
-   ###
-   ###
-#########
-###   ###
+# gitflow f
+
